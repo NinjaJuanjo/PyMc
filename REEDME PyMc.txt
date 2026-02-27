@@ -1,0 +1,18 @@
+# Modelo Bayesiano con PyMC
+
+## Crear entorno con Anaconda
+
+1. Clonar repositorio:
+git clone https://github.com/TUUSUARIO/modelo-pymc.git
+
+2. Entrar a la carpeta:
+cd modelo-pymc
+
+3. Crear entorno:
+conda env create -f environment.yml
+
+4. Activar entorno:
+conda activate pymc_env
+
+5. Ejecutar:
+python modelo_pymc.py
